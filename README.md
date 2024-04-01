@@ -13,4 +13,4 @@ de usuario principal, una vez completada la primera carga del sistema es conveni
 de open core legacy patcher 1.4.3 para completar la configuracion de la tarjeta grafica NVIDIA 710 y el modem
 wireless Fenvi 919 o broadcom 94360 parcheadas en el sistema desde 0 con esta EFI Gracias UN Saludo Compañeros.
 
-<img width="454" alt="Captura de pantalla 2024-04-01 a las 2 54 51" src="https://github.com/gordbuk/EFI-install-Sonoma-14.3.1-0-to-sucess-Fenvi-919-nVidia-710-Hp-8300-6300-Ivi-Bridge/assets/14215144/d9def8ec-72ee-433f-b623-e1a8ebaf6142">
+
