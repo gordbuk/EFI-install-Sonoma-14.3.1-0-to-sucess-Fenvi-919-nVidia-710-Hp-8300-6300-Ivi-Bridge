@@ -15,3 +15,12 @@ wireless Fenvi 919 o broadcom 94360 parcheadas en el sistema desde 0 con esta EF
 
 
 <img width="454" alt="Captura de pantalla 2024-04-01 a las 2 54 51" src="https://github.com/gordbuk/EFI-install-Sonoma-14.3.1-0-to-sucess-Fenvi-919-nVidia-710-Hp-8300-6300-Ivi-Bridge/assets/14215144/7f062417-b7a9-409d-8b5d-9a42a96aafae">
+
+Un Saludo muy fuerte a los desarroladores de la EFI anterior para instalar Ventura gracias a Aloha-cn ver su repo:
+https://github.com/aloha-cn/Hackintosh-HP6300-HP8300-OpenCore
+A Sabrina que publico un video de como poder actualizar a Sonoma desde Ventura link:  
+https://www.youtube.com/watch?v=u9KPMaM6JUc
+y a Hackintosh España por ayudar con el parcheo de la FENVI ver video:
+https://www.youtube.com/watch?v=850tC9ilGZA
+
+A disfrutar con Sonoma en Hp 8300 / 6300
